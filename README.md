@@ -31,4 +31,4 @@ Place the following files in the `data/` directory:
 
 ## Contact
 
-For questions about this analysis, please contact 24791849@sun.ac.za.
+For questions about this analysis, please contact cmavian@ufl.edu 
