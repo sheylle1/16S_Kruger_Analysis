@@ -21,7 +21,7 @@ Place the following files in the `data/` directory:
 - `observed_features.csv`
 - `Entropydata.xlsx`
 - `level-6.csv`
-- path_abun_unstrat.tsv (PICRUSt)
+- `path_abun_unstrat.tsv` (PICRUSt)
 
 ## Running the Analysis
 
