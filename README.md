@@ -9,10 +9,11 @@ This repository contains scripts for analyzing and visualizing data for the manu
 - `01_rarefaction_curves.R`: Rarefaction curve analysis
 - `02_alpha_diversity.R`: Alpha diversity analysis
 - `03_relative_abundance_family.R`: Family-level relative abundance
-- `04_relative_abundance_speciefamily.R`: Family-level relative abundance on a specie levevl
-- `05_relative_abundance_speciegenus.R`: Genus-level relative abundance on a specie level
-- `06_random_forest.R`: Random forest classification
-- `07_variable_importance.R`: Variable importance analysis
+- `04_relative_abundance_speciefamily.R`: Family-level relative abundance on a specie level
+- `05_relative_abundance_genus.R`: Genus-level relative abundance
+- `06_relative_abundance_speciegenus.R`: Genus-level relative abundance on a specie level
+- `07_random_forest.R`: Random forest classification
+- `08_variable_importance.R`: Variable importance analysis
 
 ## Data Requirements
 
